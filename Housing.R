@@ -1,4 +1,4 @@
-setwd("C:/Users/EMMANUEL NSUBUGA/OneDrive/Documents/Data_Science/year2/semester 2/class Discussion")
+setwd("C:/Users/EMMANUEL NSUBUGA/OneDrive/Documents/Data_Science/projects/Housing")
 
 
 
