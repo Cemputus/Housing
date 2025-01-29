@@ -54,7 +54,7 @@ source("Housing.R")
 Run the Jupyter Notebook or execute the script:
 
 ```bash
-source(housing.ipynb)
+source("housing.ipynb")
 
 ```
 
