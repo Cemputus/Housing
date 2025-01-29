@@ -11,8 +11,7 @@ library(dplyr)
 library(naniar)  # For missing values visualization
 
 # Set working directory (optional, adjust as needed)
-# setwd("C:/Users/EMMANUEL NSUBUGA/OneDrive/Documents/Data_Science/year2/semester 2/class Discussion")
-
+# setwd("C:/Users/EMMANUEL NSUBUGA/OneDrive/Documents/Data_Science/projects/Housing")
 # Load the dataset
 data <- read.csv("Housing.csv")
 
